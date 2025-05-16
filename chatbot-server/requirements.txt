@@ -1,0 +1,11 @@
+ninja
+starlette
+fastapi
+sse_starlette
+starlette_context
+pydantic_settings
+nest_asyncio
+coroutine
+requests
+uvicorn
+llama_cpp_python
